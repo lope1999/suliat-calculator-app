@@ -1,8 +1,8 @@
-# React Calculator App
+# My Calculator - A React Calculator App
 
 ![My Calculator App Screenshot](https://user-images.githubusercontent.com/41836834/266852934-1b8badd3-3540-408f-8b2b-608cd1e32789.png)
 
-This is a simple calculator application built using React. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a simple yet colorful and attractive calculator application built using React. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
@@ -66,7 +66,7 @@ You can easily deploy this React Calculator App on Vercel by following these ste
 
 Vercel will automatically build and deploy your React Calculator App. Once the deployment is complete, you will receive a URL where your calculator app is hosted.
 
-### Contributing
+## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
 
@@ -77,14 +77,14 @@ If you'd like to contribute to this project, please follow these steps:
 - Commit your changes and push them to your forked repository.
 - Create a pull request on the original repository.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Acknowledgments
+## Acknowledgments
 
 Thanks to the React team for providing an awesome JavaScript library.
 
-### Contact
+## Contact
 If you have any questions or suggestions, please feel free to contact us at alagasuliattitilope@email.com.
