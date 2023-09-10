@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# React Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Calculator App Screenshot](/screenshot.png)
 
-## Available Scripts
+This is a simple calculator application built using React. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear/Reset
+- Error handling for invalid inputs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+These instructions will help you get a copy of the project up and running on your local machine.
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You will need the following software installed on your system:
 
-### `npm run build`
+- [Node.js](https://nodejs.org/) (v12.0.0 or higher)
+- [npm](https://www.npmjs.com/) (v6.0.0 or higher)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository to your local machine:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/yourusername/suliat-calculator-app.git
+   
+2. Install the dependencies:
+    ```bash
+   npm install
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ### Usage
+  
+1. Start the development server:
+    ```bash
+   npm start
+    
+2. Open your browser and visit http://localhost:3000 to use the calculator.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### How to Use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Click the calculator buttons to input numbers and operators.
+- Click the "=" button to calculate the result.
+- Click the "C" button to clear the input.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Deployment on Vercel
 
-## Learn More
+This calculator was deployed on vercel, visit [click me ]([https://nodejs.org/](https://suliat-calculator-app.vercel.app/)) to access the deployed version.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can easily deploy this React Calculator App on Vercel by following these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Sign in or create an account on Vercel.
+- Click the "Import Project" button on your Vercel dashboard.
+- Choose your Git platform (GitHub, GitLab, Bitbucket) and connect your repository.
+  Configure the settings for your project. Ensure that the build settings are correctly detected. If not, set the following:
+- Build Command: npm run build
+- Output Directory: build
+- Click the "Deploy" button.
 
-### Code Splitting
+Vercel will automatically build and deploy your React Calculator App. Once the deployment is complete, you will receive a URL where your calculator app is hosted.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Contributing
 
-### Analyzing the Bundle Size
+If you'd like to contribute to this project, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Fork the repository on GitHub.
+Clone your forked repository to your local machine.
+Create a new branch and make your changes.
+Test your changes to ensure they work as expected.
+Commit your changes and push them to your forked repository.
+Create a pull request on the original repository.
 
-### Making a Progressive Web App
+### License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Acknowledgments
 
-### Deployment
+Thanks to the React team for providing an awesome JavaScript library.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Contact
+If you have any questions or suggestions, please feel free to contact us at alagasuliattitilope@email.com.
