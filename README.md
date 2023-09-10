@@ -1,6 +1,6 @@
 # React Calculator App
 
-![Calculator App Screenshot](/screenshot.png)
+![My Calculator App Screenshot](https://user-images.githubusercontent.com/41836834/266852934-1b8badd3-3540-408f-8b2b-608cd1e32789.png)
 
 This is a simple calculator application built using React. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -70,12 +70,12 @@ Vercel will automatically build and deploy your React Calculator App. Once the d
 
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository on GitHub.
-Clone your forked repository to your local machine.
-Create a new branch and make your changes.
-Test your changes to ensure they work as expected.
-Commit your changes and push them to your forked repository.
-Create a pull request on the original repository.
+- Fork the repository on GitHub.
+- Clone your forked repository to your local machine.
+- Create a new branch and make your changes.
+- Test your changes to ensure they work as expected.
+- Commit your changes and push them to your forked repository.
+- Create a pull request on the original repository.
 
 ### License
 
